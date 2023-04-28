@@ -1,0 +1,24 @@
+.form{
+  padding-top: 7%
+}
+.formBody{
+  /* padding-top: 5%; */
+}
+.Background{
+  float: right;
+  height: 420px;
+  width:450px;
+}
+.form-error{
+  color: red;
+}
+.LoginformBody{
+  padding-top: 10%;
+}
+.tableContainer{
+  padding-top: 10%;
+}
+.dashHead{
+  display: flex;
+  justify-content: space-between;
+}
